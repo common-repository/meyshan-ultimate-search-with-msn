@@ -1,0 +1,54 @@
+.meyshan-search-king-autocomplete {
+                                  position:absolute;
+                                  z-index:9050;
+                                  } 
+.meyshan-search-king-autocomplete .yui-ac-content 
+                                  {
+                                  position:absolute;
+                                  left:0;
+                                  top:0;
+                                  width:20em;
+                                  border:1px solid #404040;
+                                  background:#fff;
+                                  overflow:hidden;
+                                  text-align:left;
+                                  z-index:9050;
+                                  } 
+.meyshan-search-king-autocomplete .yui-ac-shadow 
+                                  {
+                                  position:absolute;
+                                  left:0;
+                                  top:0;
+                                  margin:.3em;
+                                  background:#a0a0a0;
+                                  z-index:9049;
+                                  } 
+.meyshan-search-king-autocomplete ul 
+                                  {
+                                  padding:5px 0;
+                                  width:100%;
+                                  } 
+.meyshan-search-king-autocomplete li 
+                                  {
+                                  padding:0 5px;
+                                  cursor:default;
+                                  white-space:nowrap;
+                                  } 
+.meyshan-search-king-autocomplete li.yui-ac-highlight {background:#ff0;} 
+#meyshan-search-king-dialog .gsc-branding {display:none;}
+#meyshan-search-king-google-blog .gsc-search-box {display:none;}
+#meyshan-search-king-images .gsc-control {display:none;}
+#meyshan-search-king-msn-menu {display:block; overflow:visible !important;}
+#meyshan-search-king-msn {float:left; width: 500px;}
+#meyshan-search-king-msn-news {float:left; width: 500px;}
+#meyshan-search-king-msn-images {float:left; width: 500px;}
+#meyshan-search-king-msn-map {float:left; width: 500px;}
+.meyshan-search-king-adsense { 
+                             float:right;
+                             margin-left:10px;
+                             margin-top:30px;
+                             position:relative;
+                             z-index: 9999;
+                             overflow: auto;
+                             }
+                            
